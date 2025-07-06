@@ -14,6 +14,11 @@
 acc new abc100
 ```
 
+## ファイル実行
+python3 abc413/a/main.py
+abcXXX/Xを都度変え、input項目を入力する
+
+
 ## テスト実行
 
 - **Ctrl + T** でテストケースを確認
